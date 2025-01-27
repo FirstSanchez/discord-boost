@@ -2,6 +2,9 @@
 
 A Discord bot that automatically responds to server boosts and sends a nice embed message.
 
+## 📷 Preview
+![image](https://github.com/user-attachments/assets/fd6549b4-f4d1-4e20-8db5-391e4bd90f88)
+
 ## ✨ Features
 
 - Automatically detects new server boosts
