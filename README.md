@@ -17,7 +17,7 @@ A Discord bot that automatically responds to server boosts and sends a nice embe
 1. **Clone the repository:**
         ```bash
         git clone [repository-url]
-        cd github-boost-bot
+        cd discord-boost-bot
         ```
 
 2. **Install dependencies:**
