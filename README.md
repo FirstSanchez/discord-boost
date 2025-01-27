@@ -28,12 +28,12 @@ A Discord bot that automatically responds to server boosts and sends a nice embe
 3. **Set up configuration:**
         - Open `config.js`
         - Enter your values:
-                ```js
-                token: 'YOUR_BOT_TOKEN'      // Discord Bot Token
-                clientId: 'YOUR_CLIENT_ID'   // Bot Client ID
-                guildId: 'YOUR_SERVER_ID'    // Server ID
-                boostChannelId: 'CHANNEL_ID' // Channel for boost messages
-                ```
+        ```js
+        token: 'YOUR_BOT_TOKEN'      // Discord Bot Token
+        clientId: 'YOUR_CLIENT_ID'   // Bot Client ID
+        guildId: 'YOUR_SERVER_ID'    // Server ID
+        boostChannelId: 'CHANNEL_ID' // Channel for boost messages
+        ```
 
 4. **Start the bot:**
         ```bash
