@@ -6,39 +6,43 @@ A Discord bot that automatically responds to server boosts and sends a nice embe
 
 - Automatically detects new server boosts
 - Sends a personalized embed message with:
-    - Mention of the booster
-    - Current number of server boosts
-    - Server name
-    - Timestamp
-    - Customizable boost image
+        - Mention of the booster
+        - Current number of server boosts
+        - Server name
+        - Timestamp
+        - Customizable boost image
 
 ## 📦 Installation
 
 1. **Clone the repository:**
-        ```bash
-        git clone [repository-url]
-        cd discord-boost-bot
-        ```
+
+                ```bash
+                git clone [repository-url]
+                cd discord-boost-bot
+                ```
 
 2. **Install dependencies:**
-        ```bash
-        npm install
-        ```
+
+                ```bash
+                npm install
+                ```
 
 3. **Set up configuration:**
-        - Open `config.js`
-        - Enter your values:
-        ```js
-        token: 'YOUR_BOT_TOKEN'      // Discord Bot Token
-        clientId: 'YOUR_CLIENT_ID'   // Bot Client ID
-        guildId: 'YOUR_SERVER_ID'    // Server ID
-        boostChannelId: 'CHANNEL_ID' // Channel for boost messages
-        ```
+         - Open `config.js`
+         - Enter your values:
+
+                ```js
+                token: 'YOUR_BOT_TOKEN'      // Discord Bot Token
+                clientId: 'YOUR_CLIENT_ID'   // Bot Client ID
+                guildId: 'YOUR_SERVER_ID'    // Server ID
+                boostChannelId: 'CHANNEL_ID' // Channel for boost messages
+                ```
 
 4. **Start the bot:**
-        ```bash
-        npm start
-        ```
+
+                ```bash
+                npm start
+                ```
 
 ## ⚙️ Configuration
 
